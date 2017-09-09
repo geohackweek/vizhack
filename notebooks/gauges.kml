@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>gauges.kml</name>
+
+<Placemark><name>Gauge 1</name>
+<description>  t1 = 0, t2 = 1e+10
+  x1 = -124.7, y1 = 47.9
+</description>
+<styleUrl>#markerstyle</styleUrl>
+<Point>
+<coordinates>
+-124.7000,47.9000,0.0000
+</coordinates>
+</Point>
+</Placemark>
+
+</Document>
+</kml>
